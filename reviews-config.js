@@ -1,6 +1,6 @@
-/* The Hair Queen — настройка отзывов.
-   После создания проекта на https://cusdis.com/dashboard скопируйте App ID
-   и вставьте его в строку ниже (в кавычках).
-   Не добавляйте сюда пароли или секретные API-ключи.
+/* The Hair Queen — отзывы Hakanai Connect.
+   Создайте сайт thehairqueen.github.io в https://connect.hakanai.io/
+   Вставьте сюда ТОЛЬКО публичный site key из кода встраивания.
+   Не вставляйте сюда пароль, токен администратора или секреты.
 */
-window.THE_HAIR_QUEEN_CUSDIS_APP_ID = "";
+window.THE_HAIR_QUEEN_HAKANAI_SITE_KEY = "";
